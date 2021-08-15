@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/netherite_hoe"
   },
   "overrides": [
-    { "predicate":  {"custom_model_data": 1}, "model": "custom_item/scythe"}
+    { "predicate":  {"custom_model_data": 1}, "model": "custom_item/BEP_scythe"}
   ]
 }

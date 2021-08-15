@@ -6,6 +6,7 @@ Use this as a quick checklist to see if you have added everything for the custom
 * Add new texture to assets/minecraft/textures/item/ (or assets/minecraft/textures/armor/ depending on your use case)
 * Add new custom item json in assets/minecraft/models/custom_item/
 * Add predicate override for your original item in assets/minecraft/models/item
+* Repackage the ZIP file before pushing!
 
 ## Some Conventions to Help Stay Organized
 Just some things that are unique to organization of this pack.

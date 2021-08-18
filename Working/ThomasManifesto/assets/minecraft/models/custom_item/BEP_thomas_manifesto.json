@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/BEP_thomas_manifesto"
+    "layer0": "item/bep_thomas_manifesto"
   }
 }

@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_axe"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "custom_item/bep_dwarf_hammer" },
+		{ "predicate": { "custom_model_data": 2}, "model": "custom_item/bep_dwarf_battleaxe" }
+	]
+}

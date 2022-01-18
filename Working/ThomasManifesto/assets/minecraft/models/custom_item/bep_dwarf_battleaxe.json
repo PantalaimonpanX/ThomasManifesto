@@ -347,10 +347,10 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, 3.25, 0]
+			"translation": [0, 1.5, 0]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0, 3.25, 0]
+			"translation": [0, 1.5, 0]
 		},
 		"firstperson_righthand": {
 			"rotation": [-20, 0, 0],

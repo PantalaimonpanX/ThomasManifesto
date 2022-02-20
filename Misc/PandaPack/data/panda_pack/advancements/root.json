@@ -1,0 +1,19 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:suspicious_stew"
+        },
+		"title": "Panda Pack",
+		"frame": "challenge",
+		"description": [{"text":"Panda Pack: A custom pack for Thomas's sinecraft server\n","color":"gold"},{"text":"Run ","color":"gold"},{"text":"/trigger time_played","color":"white"},{"text":" to check your current playtime on this server.","color":"gold"}],
+		"background": "minecraft:textures/block/purple_concrete.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
+

@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:clock"
+		},
+		"title": "48 Hours",
+		"description": [{"text":"Twoday is a good day : ","color":"gold"},{"text":"Two days in the mines, have you seen the sun recently?","color":"yellow"}],
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+        "Unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "panda_pack:time24"
+}

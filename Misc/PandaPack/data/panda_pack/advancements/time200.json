@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:clock"
+		},
+		"title": "200 Hours",
+		"description": [{"text":"Double the trouble : ","color":"gold"},{"text":"Another hundred hours? Are you crazy?","color":"yellow"}],
+		"show_toast": true,
+		"frame":"goal",
+		"announce_to_chat": true
+	},
+	"criteria": {
+        "Unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "panda_pack:time100"
+}

@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:clock"
+		},
+		"title": "69 Hours",
+		"description": [{"text":"Funny Number : ","color":"gold"},{"text":"Heh","color":"yellow"}],
+		"show_toast": true,
+		"frame":"challenge",
+		"announce_to_chat": true
+	},
+	"criteria": {
+        "Unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "panda_pack:time48"
+}

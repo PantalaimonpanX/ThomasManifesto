@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:blaze_powder"
+		},
+		"title": "420 Hours",
+		"description": [{"text":"Everyday : ","color":"green"},{"text":"Blaze it","color":"yellow"}],
+		"show_toast": true,
+		"frame":"challenge",
+		"announce_to_chat": true
+	},
+	"criteria": {
+        "Unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "panda_pack:time400"
+}

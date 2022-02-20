@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:clock"
+		},
+		"title": "1 Hour",
+		"description": [{"text":"Zero Hour : ","color":"gold"},{"text":"Your first hour, hopefully not the last.","color":"yellow"}],
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+        "Unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "panda_pack:root"
+}

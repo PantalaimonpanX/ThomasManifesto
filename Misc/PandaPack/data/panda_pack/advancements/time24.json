@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:clock"
+		},
+		"title": "24 Hours",
+		"description": [{"text":"One Day : ","color":"gold"},{"text":"24 hours down the drain","color":"yellow"}],
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+        "Unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "panda_pack:time1"
+}
